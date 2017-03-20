@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.myBank.dao.BankServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.5 sec - in com.myBank.dao.BankServiceImplTest

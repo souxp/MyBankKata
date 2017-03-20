@@ -1,0 +1,15 @@
+com\myBank\services\IBankService.class
+com\myBank\dao\AccountRepository.class
+com\myBank\dao\OperationRepository.class
+com\myBank\entities\Account.class
+com\myBank\entities\Withdrawal.class
+com\myBank\exceptions\BankAccountNotFoundException.class
+com\myBank\entities\Deposit.class
+com\myBank\entities\SavingAccount.class
+com\myBank\entities\Operation.class
+com\myBank\entities\Client.class
+com\myBank\exceptions\InsufficientBankBalanceException.class
+com\myBank\services\BankServiceImpl.class
+com\myBank\dao\ClientRepository.class
+com\myBank\MyBankApplication.class
+com\myBank\entities\CurrentAccount.class
